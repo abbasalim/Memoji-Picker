@@ -25,10 +25,10 @@ add :
     implementation 'com.github.abbasalim:Memoji-Picker:<lastVersion>'
 
 
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/abbasalim/Memoji-Picker/master/app/screenshot/screen1.jpg"/>
-<img src="https://raw.githubusercontent.com/abbasalim/Memoji-Picker/master/app/screenshot/screen2.jpg"/>
-<img src="https://raw.githubusercontent.com/abbasalim/Memoji-Picker/master/app/screenshot/screen3.jpg"/>
+  <img src="https://raw.githubusercontent.com/abbasalim/Memoji-Picker/master/app/screenshot/screen1.jpg" width="350" title="example">
+	 <img src="https://raw.githubusercontent.com/abbasalim/Memoji-Picker/master/app/screenshot/screen2.jpg" width="350" title="example">
+	 <img src="https://raw.githubusercontent.com/abbasalim/Memoji-Picker/master/app/screenshot/screen3.jpg" width="350" title="example">
 </p>
+
 
