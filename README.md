@@ -1,5 +1,6 @@
 
 
+[![](https://jitpack.io/v/abbasalim/Memoji-Picker.svg)](https://jitpack.io/#abbasalim/Memoji-Picker)
 
 <h1 align="center">Compose Memoji Picker</h1>
 
@@ -21,7 +22,7 @@ Easy to Use:
 add :
 
 
-    implementation 'com.github.abbasalim:?????:<lastVersion>'
+    implementation 'com.github.abbasalim:Memoji-Picker:<lastVersion>'
 
 
 
