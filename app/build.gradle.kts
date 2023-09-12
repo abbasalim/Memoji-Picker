@@ -5,12 +5,11 @@ plugins {
 
 android {
     namespace = "ir.mowjapp.memojipickerexample"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "ir.mowjapp.memojipickerexample"
         minSdk = 21
-        targetSdk = 33
         versionCode = 1
         versionName = "1.0"
 
@@ -47,6 +46,7 @@ android {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }
     }
+    buildToolsVersion = "33.0.1"
 }
 
 dependencies {
