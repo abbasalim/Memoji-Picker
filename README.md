@@ -6,7 +6,7 @@
 <p align="center">  
 Easily allow your users to choose an Memoji for themselves.
 </p>
-</br>
+<br>
 
 Easy to Use:
 
@@ -26,6 +26,8 @@ add :
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73926625/173975249-b8b6f6a6-327b-4871-a825-6b748a1ac4cf.png"/>
+<img src="https://raw.githubusercontent.com/abbasalim/Memoji-Picker/master/app/screenshot/screen1.jpg"/>
+<img src="https://raw.githubusercontent.com/abbasalim/Memoji-Picker/master/app/screenshot/screen2.jpg"/>
+<img src="https://raw.githubusercontent.com/abbasalim/Memoji-Picker/master/app/screenshot/screen3.jpg"/>
 </p>
 
