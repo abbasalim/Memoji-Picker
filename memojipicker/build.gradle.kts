@@ -1,7 +1,7 @@
 plugins {
     id("com.android.library")
     id("org.jetbrains.kotlin.android")
-    id ("maven-publish")
+//    id ("maven-publish")
 }
 
 
@@ -70,3 +70,4 @@ dependencies {
 //    implementation("io.coil-kt:coil:2.4.0")
 //    implementation("io.coil-kt:coil-compose:2.4.0")
 }
+
